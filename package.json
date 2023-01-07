@@ -19,7 +19,7 @@
     "rollup-plugin-terser": "^5.1.2",
     "serve": "^12.0.0",
     "svelte": "^3.0.0",
-    "testcafe": "^1.14.2"
+    "testcafe": "^15.1.317922"
   },
   "dependencies": {
     "query-string": "^6.10.1",
