@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "query-string": "^6.10.1",
-    "sirv-cli": "^0.4.4",
+    "sirv-cli": "^0.4.6",
     "url-parse": "^1.4.7"
   },
   "prettier": {
